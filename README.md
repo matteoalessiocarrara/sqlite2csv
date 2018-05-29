@@ -1,7 +1,8 @@
-# Work in progress
+# sqlite2csv
 
-## Links
+Simple library to export sqlite3 tables into corresponding csv files
+
+## Get the latest updates on
 
  * [Telegram](https://telegram.me/matteoalessiocarrara) 
- * [Facebook](https://www.facebook.com/matteoalessiocarrara)
  * [GitHub](https://github.com/matteoalessiocarrara)
